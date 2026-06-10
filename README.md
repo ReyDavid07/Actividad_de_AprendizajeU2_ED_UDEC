@@ -1,0 +1,24 @@
+# Unidad 2 - Ejercicio 4 - Restaurante
+
+Sistema de gestión de pedidos de restaurante usando estructuras de datos personalizadas: Lista, Cola y Pila.
+
+## Caso asignado
+- Ejercicio: 4
+- Caso: Restaurante
+- Entidad principal: Pedido
+- Identificador: Número de pedido
+
+## Cómo compilar y ejecutar
+```bash
+cd src
+javac *.java
+java SistemaRestaurante
+```
+
+## Estructuras usadas
+- Lista: registro general de todos los pedidos.
+- Cola: pedidos pendientes por procesar, aplicando FIFO.
+- Pila: historial de pedidos procesados, aplicando LIFO y permitiendo deshacer.
+
+## Nota
+Reemplaza en el informe los campos de nombre del estudiante, código, enlaces de GitHub y video.
