@@ -1,0 +1,20 @@
+1
+P001
+Ana Torres
+Hamburguesa, papas y jugo
+28500
+1
+P002
+Luis Mora
+Pizza personal y gaseosa
+32000
+2
+3
+4
+5
+8
+3
+7
+P002
+9
+10

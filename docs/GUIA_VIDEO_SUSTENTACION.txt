@@ -1,0 +1,12 @@
+Guia para video de sustentacion - Unidad 2
+
+1. Presentar el caso asignado: Restaurante - Pedido - numero de pedido.
+2. Mostrar las clases Nodo, Lista, Cola, Pila, Pedido y SistemaRestaurante.
+3. Explicar que la lista guarda todos los pedidos, la cola guarda pendientes con FIFO y la pila guarda procesados con LIFO.
+4. Ejecutar el programa y registrar dos pedidos.
+5. Mostrar todos los pedidos y la cola de pendientes.
+6. Procesar el siguiente pedido y mostrar que pasa al historial.
+7. Buscar un pedido por numero.
+8. Cancelar un pedido pendiente explicando el uso de una cola auxiliar.
+9. Deshacer el ultimo procesamiento y mostrar que regresa a la cola.
+10. Mostrar cantidades finales y explicar validaciones.

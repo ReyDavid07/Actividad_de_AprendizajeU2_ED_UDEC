@@ -1,0 +1,167 @@
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Registrar pedido ---
+Numero de pedido: Nombre del cliente: Descripcion del pedido: Total del pedido: Pedido registrado y enviado a la cola de pendientes.
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Registrar pedido ---
+Numero de pedido: Nombre del cliente: Descripcion del pedido: Total del pedido: Pedido registrado y enviado a la cola de pendientes.
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Lista general de pedidos ---
+Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PENDIENTE'}
+Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', total=32000.0, estado='PENDIENTE'}
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Cola de pedidos pendientes ---
+Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PENDIENTE'}
+Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', total=32000.0, estado='PENDIENTE'}
+Total pendientes: 2
+Siguiente pedido: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PENDIENTE'}
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: Pedido procesado: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PROCESADO'}
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Historial de pedidos procesados ---
+Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PROCESADO'}
+Ultimo procesado: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PROCESADO'}
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: Se deshizo el procesamiento y el pedido regreso a pendientes: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PENDIENTE'}
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Cola de pedidos pendientes ---
+Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', total=32000.0, estado='PENDIENTE'}
+Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', total=28500.0, estado='PENDIENTE'}
+Total pendientes: 2
+Siguiente pedido: Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', total=32000.0, estado='PENDIENTE'}
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: Numero del pedido pendiente a cancelar: Pedido cancelado correctamente usando cola auxiliar.
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: 
+--- Cantidades ---
+Pedidos registrados en lista: 2
+Pedidos pendientes en cola: 1
+Pedidos procesados en historial: 0
+
+===== SISTEMA DE PEDIDOS - RESTAURANTE =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por codigo
+7. Cancelar elemento pendiente
+8. Deshacer ultimo procesamiento
+9. Ver cantidad de elementos
+10. Salir
+Seleccione una opcion: Saliendo del sistema...
